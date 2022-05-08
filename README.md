@@ -6,3 +6,4 @@ This repository hosts illustration files called CrashSheets
 * C CrashSheet
 * Git CrashSheet
 * Hg CrashSheet
+* VHDL CrashSheets
