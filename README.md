@@ -7,3 +7,5 @@ This repository hosts illustration files called CrashSheets
 * Git CrashSheet
 * Hg CrashSheet
 * VHDL CrashSheets
+* Xilinx CrashSheets
+* UART CrashSheet
