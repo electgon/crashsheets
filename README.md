@@ -10,3 +10,4 @@ This repository hosts illustration files called CrashSheets
 * Xilinx CrashSheets
 * UART CrashSheet
 * SPI CrashSheet
+* I2C CrashSheet
